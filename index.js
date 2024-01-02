@@ -127,7 +127,7 @@ async function main() {
   const html = render(team);
 
 
-  const outputPath = './output/team.html';
+  const outputPath = './output/team2.html';
   fs.writeFile(outputPath, html, (err) => {
     if (err) throw err;
     console.log(`Team information written to ${outputPath}`);
