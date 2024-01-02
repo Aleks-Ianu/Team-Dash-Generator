@@ -15,7 +15,8 @@ To install this project you need to have node installed in order to call the app
 
 ## Usage 
 
-       ![Demo Picture](./assets/TeamGeneratorDemo.jpeg)
+       
+       ![Team Generator](assets/TeamGeneratorDemo.jpeg)
 
 
 ## Licence Description
